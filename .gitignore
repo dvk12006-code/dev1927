@@ -1,0 +1,21 @@
+# Ignore large data files
+*.csv
+*.zip
+*.tar.gz
+*.json
+
+# Ignore executables and installers
+*.exe
+*.msi
+
+# Python/Jupyter related
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.ipython/
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
