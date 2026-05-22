@@ -7,6 +7,10 @@
 * **Domain:** DATA ANALYSIS
 * **Duration:** 4 weeks (May 2026)
 * **Mentor:** NEELA SANTOSH
+* **Output:**
+  * `assets/output_average_fare_by_payment_type.png`
+  * `assets/output_distribution_of_fare_amounts.png`
+  * `assets/output_big_data_analysis_summary.png`
 
 ---
 
